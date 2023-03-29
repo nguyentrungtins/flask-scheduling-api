@@ -1,3 +1,1 @@
-# flask-api
-# flask-api
-# flask-api
+# Flask API using AI - Genetic algorithm for class scheduling
